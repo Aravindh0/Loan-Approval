@@ -10,7 +10,7 @@ The objective of this project is to devlope a model for prediction of loan appro
 - Sklearn
 - Python
 - Matplotlib
-- Seraborn
+- Seaborn
 - Excel
 - Tableau
 ## Tableau
